@@ -1,0 +1,6 @@
+{
+    "html.format.templating": true,
+    "html.format.enable": false,
+    "html.format.endWithNewline": true,
+    "liveServer.settings.port": 5502
+}
